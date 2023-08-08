@@ -1,4 +1,4 @@
-# Computer Vision Project: Sex Swap
+# Computer Vision Project: Gender Prediction
 
 Vito Lin and John Lee
 
